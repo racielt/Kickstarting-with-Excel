@@ -1,4 +1,4 @@
-}# Kickstarting-with-Excel
+# Kickstarting-with-Excel
 
 Outcomes based on launch dates and goals.
 
@@ -7,7 +7,8 @@ Outcomes based on launch dates and goals.
 ### Purpose
 
 Analysis of the relationship between campaings performance and their launch dates and goals.
-Get to know 
+
+Get to know the best period of time, in which historically, the campaigns have more success, and also determine the outcomes related with the campaigns goals.
 
 ## Analysis and Challenges
 
@@ -15,12 +16,10 @@ Get to know
 
 
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90534703/134109622-4a1401f8-19a3-403a-abb9-d08a946428c2.png)
-
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90534703/134111923-6ee90bac-d420-4c6d-87bb-6a8fa9cca0fa.png)
+
 
 
 ### Challenges and Difficulties Encountered
@@ -36,9 +35,15 @@ In the other hand we can see that December is a month in which we don’t have a
 
 The failed and canceled campaigns are having a standard performance throughout all the months, the failed campaigns moves around 30 and 50 campaigns per month. 
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90534703/134109622-4a1401f8-19a3-403a-abb9-d08a946428c2.png)
+
 - What can you conclude about the Outcomes based on Goals?
 
+As we can see in the next graphic the campaigns with lower goals were the ones with a higher success, being those with a goal less than 1000 that got a 76% of success, and the ones between 1000 and 4999 with a 73% of success, a total of 388 successful campaigns. These two categories also have the lower rate for failed campaigns.
 
+If we only focus on the graph and the percentage, we can assume that the campaigns with goals between 35000 and 44999 has almost the same successful level, but the total number of projects are lower (6 and 3, respectively) compared with the 186 (lower than 1000), and the 534 (1000 and 4999)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90534703/134111923-6ee90bac-d420-4c6d-87bb-6a8fa9cca0fa.png)
 
 - What are some limitations of this dataset?
 
